@@ -1,4 +1,4 @@
-# Applied Data Science Capstone for IBM Data Science Professional Certificate
+Applied Data Science Capstone for IBM Data Science Professional Certificate
       
       List of files:
       1. Data Collection API Lab
